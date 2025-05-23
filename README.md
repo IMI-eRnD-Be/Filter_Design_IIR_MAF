@@ -12,4 +12,7 @@ This repository allows users to create and design either Moving Average Filters 
 
 ## Examples:
 
-![Temperature filter](/TemperatureFilterImplemented/MAFVsIIR_N2Butterworth.pdf)
+ - [Temperature Examples](/TemperatureFilterImplemented/)
+ - [Flow Examples](/FlowFilterImplemented/)
+ 
+ 
