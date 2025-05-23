@@ -51,5 +51,16 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-*.pdf
 *.PNG
+
+Attenuation_Butt4.pdf
+
+Attenuation_Butt8.pdf
+
+FIRhamming.pdf
+
+MAF_64.pdf
+
+MagdB_Butt4.pdf
+
+MagdB_Butt8.pdf
